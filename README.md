@@ -177,7 +177,7 @@ Mac                      22 hrs 25 mins      ███████████�
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" /> -->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
