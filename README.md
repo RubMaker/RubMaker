@@ -46,7 +46,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" /> -->
 
 <p>&emsp;&emsp;Hey, I'm RubMaker, an explorer brimming with passion for coding, books, and gourmet food.</p>
 <p>&emsp;&emsp;My fervor for computer science and the IT internet sector knows no bounds, and my aspiration is to ascend to the pinnacle as a top-notch developer.</p>
