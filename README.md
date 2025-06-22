@@ -101,7 +101,7 @@
 <tr><td>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+<!-- **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                686 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
@@ -142,7 +142,7 @@ Mac                      22 hrs 25 mins      ███████████�
 ```
 
 
- Last Updated on 22/06/2025 00:51:00 UTC
+ Last Updated on 22/06/2025 00:51:00 UTC -->
 <!--END_SECTION:waka-->
 
 </td></tr>
