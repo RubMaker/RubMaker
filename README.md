@@ -59,7 +59,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RubMaker/RubMaker/assets/images/yuanze.png" />
+<!-- <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RubMaker/RubMaker/assets/images/yuanze.png" />
 
 - [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
 
@@ -78,7 +78,7 @@
 - [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
 
   - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
+  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作 -->
 
 </td></tr>
 
