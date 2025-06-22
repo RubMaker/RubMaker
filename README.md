@@ -195,8 +195,8 @@ Mac                      22 hrs 25 mins      ███████████�
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/RubMaker/RubMaker/assets/images/right.png" />
 
 <!-- metrics 基础资料 -->
-<img src="https://cdn.jsdelivr.net/gh/RubMaker/RubMaker/github-metrics/base.svg" />
-
+<!-- <img src="https://cdn.jsdelivr.net/gh/RubMaker/RubMaker/github-metrics/base.svg" /> -->
+<div align="center"> <img src="https://metrics.lecoq.io/RubMaker?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
   <tr>
