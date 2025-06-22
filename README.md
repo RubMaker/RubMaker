@@ -48,10 +48,10 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;Hey, I'm RubMaker, an explorer brimming with passion for coding, books, and gourmet food.</p>
+<p>&emsp;&emsp;My fervor for computer science and the IT internet sector knows no bounds, and my aspiration is to ascend to the pinnacle as a top-notch developer.</p>
+<p>&emsp;&emsp;We're harnessing the power of code to construct exquisitely ingenious architectures, infusing the world with an unprecedented vibrancy and allure.</p>
+<p>&emsp;&emsp;<strong>We're harnessing the power of code to construct exquisitely ingenious architectures, infusing the world with unprecedented an vibrancy and allure.</strong></p>
 
 </td></tr>
 
